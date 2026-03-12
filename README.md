@@ -3,6 +3,9 @@
 This project implements a framework for **benchmarking automated trading strategies** on historical S&P 500 data.  
 Users can plug in their own trading algorithm and evaluate its performance through historical backtesting.
 
+![Trading Simulator Interface](images/trading_simulator_interface.png)
+
+
 ---
 
 ## Overview
