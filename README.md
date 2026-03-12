@@ -56,6 +56,7 @@ Each strategy must define the following function:
 def strategy(data, ticker, stock_holdings, cash):
     ...
     return final_cash, final_holdings, trade_log
+```
 
 This allows the framework to dynamically load and benchmark different trading algorithms.
 
