@@ -83,3 +83,4 @@ REF_bollinger_bands.py
 REF_rsi_strategy.py
 
 These strategies are provided for testing and benchmarking the framework.
+
